@@ -1,0 +1,10 @@
+<environment>
+    <parameter>
+        <key>Application Name</key>
+        <value>FlipkartAmazonPriceComparison</value>
+    </parameter>
+    <parameter>
+        <key>Environment</key>
+        <value>Test</value>
+    </parameter>
+</environment>

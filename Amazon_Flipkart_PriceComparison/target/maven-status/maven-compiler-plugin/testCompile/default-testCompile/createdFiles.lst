@@ -1,0 +1,17 @@
+com\smallcase\genericfunctions\FlipkartHomePageActions.class
+com\smallcase\pageobject\AmazonCartPage.class
+com\smallcase\pageobject\FlipkartCartPage.class
+com\smallcase\genericfunctions\AmazonCartPageActions.class
+com\smallcase\genericfunctions\AmazonProductPageActions.class
+com\smallcase\pageobject\AmazonHomePage.class
+com\smallcase\pageobject\FlipkartHomePage.class
+com\smallcase\util\CommonFunctions.class
+com\smallcase\genericfunctions\AmazonHomePageActions.class
+com\smallcase\util\Log.class
+com\smallcase\util\BrowserManager.class
+com\smallcase\util\AllureListener.class
+com\smallcase\testcases\FlipkartAmazonPriceComparisonTest.class
+com\smallcase\pageobject\FlipkartProductPage.class
+com\smallcase\genericfunctions\FlipkartProductPageActions.class
+com\smallcase\genericfunctions\FlipkartCartPageActions.class
+com\smallcase\pageobject\AmazonProductPage.class

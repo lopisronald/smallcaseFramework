@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[chrome browser is launched successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="FunctionalAutomationSuite" duration-ms="37723" started-at="2021-10-28T16:11:36Z" finished-at="2021-10-28T16:12:14Z">
+    <groups>
+    </groups>
+    <test name="Flipkart Amazon Price Comparison" duration-ms="37723" started-at="2021-10-28T16:11:36Z" finished-at="2021-10-28T16:12:14Z">
+      <class name="com.smallcase.testcases.FlipkartAmazonPriceComparisonTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.smallcase.testcases.FlipkartAmazonPriceComparisonTest@4940809c]" name="setup" is-config="true" duration-ms="4387" started-at="2021-10-28T11:11:36Z" finished-at="2021-10-28T11:11:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[chrome browser is launched successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="initialSetup(java.lang.reflect.Method)[pri:0, instance:com.smallcase.testcases.FlipkartAmazonPriceComparisonTest@4940809c]" name="initialSetup" is-config="true" duration-ms="4607" started-at="2021-10-28T11:11:40Z" finished-at="2021-10-28T11:11:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.smallcase.testcases.FlipkartAmazonPriceComparisonTest.verifyFlipkartProductAvailibility() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method status="PASS" signature="verifyFlipkartProductAvailibility()[pri:0, instance:com.smallcase.testcases.FlipkartAmazonPriceComparisonTest@4940809c]" name="verifyFlipkartProductAvailibility" duration-ms="8640" started-at="2021-10-28T11:11:45Z" finished-at="2021-10-28T11:11:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFlipkartProductAvailibility -->
+        <test-method status="PASS" signature="initialSetup(java.lang.reflect.Method)[pri:0, instance:com.smallcase.testcases.FlipkartAmazonPriceComparisonTest@4940809c]" name="initialSetup" is-config="true" duration-ms="1415" started-at="2021-10-28T11:11:54Z" finished-at="2021-10-28T11:11:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.smallcase.testcases.FlipkartAmazonPriceComparisonTest.compareProductPriceInFlipkartAndAmazon() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method status="PASS" signature="compareProductPriceInFlipkartAndAmazon()[pri:0, instance:com.smallcase.testcases.FlipkartAmazonPriceComparisonTest@4940809c]" name="compareProductPriceInFlipkartAndAmazon" duration-ms="17376" started-at="2021-10-28T11:11:55Z" finished-at="2021-10-28T11:12:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareProductPriceInFlipkartAndAmazon -->
+        <test-method status="PASS" signature="close_browser()[pri:0, instance:com.smallcase.testcases.FlipkartAmazonPriceComparisonTest@4940809c]" name="close_browser" is-config="true" duration-ms="1247" started-at="2021-10-28T11:12:12Z" finished-at="2021-10-28T11:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- com.smallcase.testcases.FlipkartAmazonPriceComparisonTest -->
+    </test> <!-- Flipkart Amazon Price Comparison -->
+  </suite> <!-- FunctionalAutomationSuite -->
+</testng-results>
